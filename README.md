@@ -10,7 +10,7 @@ My portfolio focuses on robot simulation, ROS 2 integration, and embedded test s
 
 ### [TurtleBot3 ROS 2 Integration in Isaac Sim](https://github.com/KEK-Koiki/turtlebot3-ros2-isaac-sim)
 
-Course-based mobile robot integration covering differential drive, RTX lidar, RGB camera data, odometry, simulation time, and TF. The project includes Python utilities, six USD checkpoints, a demo video, and saved external ROS validation with all six required streams received after reopening the packaged scene.
+Course-based mobile robot integration covering differential drive, RTX lidar, RGB camera data, odometry, simulation time, and TF. The public showcase includes selected Python utilities, a demo video, screenshots, and saved external ROS validation with all six required streams received after reopening the packaged scene. Six incremental USD checkpoints are retained in the original local submission.
 
 **Isaac Sim · ROS 2 Jazzy · Python · OmniGraph · OpenUSD · RViz2**
 
