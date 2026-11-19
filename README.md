@@ -1,16 +1,23 @@
-## Hi there 👋
+# Elijah Koiki
 
-<!--
-**KEK-Koiki/KEK-Koiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Robotics and Autonomous Systems Engineering**
 
-Here are some ideas to get you started:
+My portfolio focuses on robot simulation, ROS 2 integration, and embedded test systems. I’m interested in connecting components into systems whose behavior can be inspected through code, diagnostics, and measured results.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://www.linkedin.com/in/elijah-koiki/) · [GitHub](https://github.com/KEK-Koiki)
+
+## Featured work
+
+### [TurtleBot3 ROS 2 Integration in Isaac Sim](https://github.com/KEK-Koiki/turtlebot3-ros2-isaac-sim)
+
+Course-based mobile robot integration covering differential drive, RTX lidar, RGB camera data, odometry, simulation time, and TF. The project includes Python utilities, six USD checkpoints, a demo video, and saved external ROS validation with all six required streams received after reopening the packaged scene.
+
+**Isaac Sim · ROS 2 Jazzy · Python · OmniGraph · OpenUSD · RViz2**
+
+The repository documents its course origin and use of automated assistance, alongside the integration evidence and reproducibility limits.
+
+### [ESP32 Hardware-in-the-Loop Test Bench](https://github.com/KEK-Koiki/esp32-hil-testbench)
+
+An embedded test-bench project in active development. The current repository documents the planned ESP32, servo, UART, and Python architecture and the CAD baseplate work. Communication deployment, telemetry logging, and fault-injection validation remain listed as development milestones.
+
+**ESP32 · Embedded systems · Python · CAD**
